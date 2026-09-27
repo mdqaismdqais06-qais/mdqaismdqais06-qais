@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff7b72&center=true&vCenter=true&width=805&height=44&lines=AI%20Engineer%20%20%E2%80%A2%20Flutter%20Developer%20%E2%80%A2%20%20Content%20creator;Building%20AI-powered%20apps%20%26%20real-world%20software." alt="Typing headlines" />
+</p>
 <h1 align="center">Hi 👋, I'm Md. Qais Alamj</h1>
 <h3 align="center">B.tech CSE student | Aspiring cybersecurity Enthusiast</h3>
 
